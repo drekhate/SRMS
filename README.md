@@ -1,4 +1,4 @@
-# Student Result Management - TRIE ( DSA)
+# Student Result Management
 Student Result Management using Java, Java Swing, & MySQL.
 1. Technology Used
     1. Java
