@@ -4,8 +4,12 @@ Student Result Management using Java, Java Swing, & MySQL.
     1. Java
     2. Java Swing
     3. MySQL
+    4. RDBMS
 # Description
 In this Student Result Management System, there is an admin module and a student module. Admin can add a new student, add results, view registered student, view student results, and logout, Student can enter roll number and see all details like a mark, and academic details. The complete project is developed with Java and Java Swing. MySQL JDBD driver is used to connect the database with the application.
+Project Learning: I learned how to implement Core Java and logical DSA knowledge in a project.
+Project Challenge: Connecting application to the database using JDBC API
+
 # Screenshot
 ![Screenshot (86)](https://github.com/drekhate/SRMS/assets/95485355/b24c1b5b-9409-420f-b37f-9c3905ce58cb)
 ![Screenshot (89)](https://github.com/drekhate/SRMS/assets/95485355/8a7682f6-fdfd-44cb-83f2-82c85afd1a5c)
